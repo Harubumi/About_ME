@@ -11,4 +11,3 @@ Olá! Meu nome é Ana Julia Liauw Rodrigues e sou uma desenvolvedora em busca de
 - Email: anajulia.lrodrigues@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta, sugestão ou oportunidade de colaboração!
-
